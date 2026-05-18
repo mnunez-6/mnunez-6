@@ -5,9 +5,12 @@ I'm a Computer Science student at Case Western Reserve University, currently fin
 - 🌱 I'm currently exploring full-stack development and FinTech.
 
 
+## Background
+I'm originally from New Orleans, Louisiana, where my curiosity for technology started early - modifying game files, swapping hardware in my laptop, and constantly wondering how things worked under the hood. 
 
+In high school, I took my first real steps into Computer Science by taking AP Computer Science Principles and working through Harvard's CS50x course. The summer before my senior year, I enrolled in a Python Programming course at Tulane University, which led to a research internship under a tenured professor in Tulane's Data Science department. There, I independently analyzed 2023 data science salary trends using Python, Pandas, NumPy, and Matplotlib - producing visualizations and written reports that contributed to academic research findings.
 
-
+Those experiences solidified my decision to pursue Computer Science at Case Western Reserve University, where I was awarded a full-tuition Posse Foundation Leadership Scholarship.
 
 <!--
 **mnunez-6/mnunez-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
