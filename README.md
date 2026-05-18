@@ -12,6 +12,11 @@ In high school, I took my first real steps into Computer Science by taking AP Co
 
 Those experiences solidified my decision to pursue Computer Science at Case Western Reserve University, where I was awarded a full-tuition Posse Foundation Leadership Scholarship.
 
+
+## Connect With Me
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-nunez-06)
+[!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauronnunez1221@gmail.com)
+
 <!--
 **mnunez-6/mnunez-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
