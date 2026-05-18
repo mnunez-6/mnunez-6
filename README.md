@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mauro Nunez 👋
+I'm a Computer Science student at Case Western Reserve University, currently finishing up my freshman year. I'm passionate about building things from the ground up and am always looking to sharpen my skills through personal projects and continuous learning. 
+
+- 🔭 I'm currently working on strengthening my Java fundamentals through hands-on projects.
+- 🌱 I'm currently exploring full-stack development and FinTech.
+
+
+
+
+
 
 <!--
 **mnunez-6/mnunez-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
